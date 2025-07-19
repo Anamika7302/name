@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+env/
+venv/
+.venv/
+
+# VS Code / PyCharm config
+.vscode/
+.idea/
+
+# macOS and Windows system files
+.DS_Store
+Thumbs.db
+
+# Model and pipeline files
+model.pkl
+pipeline.pkl
+
+# CSV data files
+*.csv
+
+# Logs and outputs
+*.log
+output.csv
